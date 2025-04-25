@@ -12,6 +12,7 @@
             tree.Insert(1);
             
             List<TreeNode> list = tree.FindMinimum(tree.Root);
+            Console.WriteLine("Най-малката стойност е:");
             Console.WriteLine(list[list.Count-1].Value);
         }
     }
