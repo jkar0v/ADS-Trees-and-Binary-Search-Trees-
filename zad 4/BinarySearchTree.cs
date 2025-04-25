@@ -30,8 +30,9 @@ namespace zad_4
         {
             if (node != null)
             {
-                list.Add(node);
                 FindMinimum(node.Left);
+                list.Add(node);
+                FindMinimum(node.Right);
             }
             return list;
         }
