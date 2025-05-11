@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad 2", "zad 2\zad 2.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad 3", "zad 3\zad 3.csproj", "{4434EDFB-C198-4FCA-98E5-211BBC6E8233}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program for presentation", "Program for presentation\Program for presentation.csproj", "{D540C1E1-EF50-4252-9C84-CE5B991798EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4434EDFB-C198-4FCA-98E5-211BBC6E8233}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4434EDFB-C198-4FCA-98E5-211BBC6E8233}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4434EDFB-C198-4FCA-98E5-211BBC6E8233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D540C1E1-EF50-4252-9C84-CE5B991798EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D540C1E1-EF50-4252-9C84-CE5B991798EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D540C1E1-EF50-4252-9C84-CE5B991798EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D540C1E1-EF50-4252-9C84-CE5B991798EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
